@@ -1,1 +1,2 @@
-# Deep-Learning-Image-Classification-CNN-
+# Deep-Learning-Image-Classification-
+# CONVOLUTION NEURAL NETWORKS
